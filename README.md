@@ -1,3 +1,12 @@
+<h1 align="center">IPL 2026 Bowling Impact Analysis</h1>
+
+<p align="center">
+  <img src="Bowling%20Model%20Pg3.png" width="1000">
+</p>
+
+<p align="center">
+  Beyond Wickets: Measuring Pressure, Control & Impact using BIS, Pressure Index and Phase Analytics
+</p>
 # IPL-2026-Ultimate-Bowling-Analysis-
 **Project Overview**
 IPL 2026 Bowling Ultimate Analysis using **Power BI** and **Microsoft Excel**. T20 cricket isn't always about mere metrics but about hidden measures such as control, sustained output, applying pressure , etc. Using statistical modleling and powerful visualisation I tried to bring forth some hidden analysis.
@@ -108,3 +117,29 @@ Z-Score Standardization
 Data Visualization
 Cricket Analytics
 
+## Dashboard Preview
+
+### Page 1 - Bowling Impact Analysis
+![Bowling Impact Analysis](Bowling%20Model%20Pg1.png)
+
+### Page 2 - Pressure Index Analysis
+![Pressure Analysis](Bowling%20Model%20Pg2.png)
+
+### Page 3 - Phase-wise Bowling Analysis
+![Phase Analytics](Bowling%20Model%20Pg3.png)
+
+---
+
+## Project Files
+
+| File | Description |
+|--------|--------|
+| IPL 2026 Bowlers Modelling.pbix | Power BI Dashboard |
+| ipl2026ballbowlingall.csv | Overall Bowling Data |
+| ipl2026ballpo.csv | Powerplay Data |
+| ipl2026ballmo.csv | Middle Overs Data |
+| ipl2026so.csv | Death Overs Data |
+
+📥 **Power BI File**
+
+[Download Dashboard](IPL%202026%20Bowlers%20Modelling.pbix)
